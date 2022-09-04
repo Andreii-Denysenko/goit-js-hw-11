@@ -34,7 +34,7 @@ body {
   justify-content: space-around;
   align-items: center;
   width: 100px;
-  border-top-right-radius: 5px;
+   border-top-right-radius: 5px;
     border-bottom-right-radius: 35px;
   cursor: pointer;
   background-color: lightgre;
@@ -44,7 +44,7 @@ body {
 }
 .search-btn:hover,
 .search-btn:focus{
-  background-color: rgb(180, 169, 169);
+  background-color: #d7f803;
 }
 .load-more {
   width: 100px;
@@ -63,7 +63,7 @@ body {
 
 .load-more:hover,
 .load-more:focus{
-  background-color: lightgrey;
+  background-color:  #d7f803;
 }
 
 
